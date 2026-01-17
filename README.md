@@ -12,14 +12,12 @@ A fully responsive front-end clone of Amazon’s landing page built using HTML, 
 - Smooth Back to Top functionality using JavaScript
 - Custom hover effects and focus states
 - Mobile-first responsive breakpoints
-- Deployed live using GitHub Pages
 
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic structure and accessibility  
 - **CSS3** – Grid, Flexbox, media queries, transitions  
 - **JavaScript (ES6)** – UI interactivity (Back to Top button)  
-- **GitHub Pages** – Live deployment  
 
 ## Key Implementations: 
 
